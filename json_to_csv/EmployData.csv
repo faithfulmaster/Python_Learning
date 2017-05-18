@@ -1,5 +1,5 @@
-dept,name,id
-ABC,Kamal,1
-XYZ,Akshay,2
-ABC,Swati,3
-XYZ,Hemant,4
+Name	Department	Id
+ABC	Kamal	1
+XYZ	Akshay	2
+ABC	Swati	3
+XYZ	Hemant	4
