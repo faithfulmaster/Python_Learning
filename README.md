@@ -23,3 +23,5 @@ __3. Examples__
 - Print words of specific length _(print_words)_
 - Sort words and remove duplicates in a string _(sort_remove_duplicates)_
 - Split and join words in a comma separated string _(split_join)_
+
+Note: For my work related assignments and tasks in Python, refer to [Python Text Manipulation](https://github.com/faithfulmaster/python_text_manipulation) repo.
